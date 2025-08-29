@@ -79,9 +79,10 @@ npm run dev
 
 ## 🌐 Deployment
 
-- Frontend (React + Vite)
 
-- Backend (Express)
+- [Frontend Vite + React ](https://nexli-your-next-link-to-seamless-te.vercel.app/)  
+- [Backend Express ](https://nexli-your-next-link-to-seamless-teamwork.onrender.com/)  
+
 
 Make sure to set environment variables in both platforms.
 
